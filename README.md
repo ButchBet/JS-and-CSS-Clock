@@ -10,7 +10,7 @@
 
 
 ## Overview
-This is a solution to the [CSS Clocl practice challenge]().
+This is a solution to the [JS and CSS Clocl practice challenge]().
 
 ### Screenshot
 ![Desktop]()
